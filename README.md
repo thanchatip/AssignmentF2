@@ -1,2 +1,2 @@
-# AssignmentF2
-AssignmentF2
+# Assignment Fundamental programming 2
+create game assignment using java
